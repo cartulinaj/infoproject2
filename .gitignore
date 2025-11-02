@@ -34,7 +34,6 @@ block1infop2
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
-Makefile.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
